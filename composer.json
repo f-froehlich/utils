@@ -1,0 +1,57 @@
+{
+  "name": "f-froehlich/utils",
+  "type": "library",
+  "description": "Provides Utility Operation",
+  "keywords": [],
+  "homepage": "https://f-froehlich.de",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Fabian Fröhlich",
+      "email": "mail@f-froehlich.de"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://nexus.f-froehlich.de/repository/composer/"
+    },
+    {
+      "packagist.org": false
+    }
+  ],
+  "require": {
+    "php": "^7.1",
+    "ext-xml": "*",
+    "doctrine/collections": "^1",
+    "symfony/framework-bundle": "^4|^5"
+  },
+  "require-dev": {
+    "ext-xdebug": "*",
+    "phpunit/phpunit": "^8"
+  },
+  "autoload": {
+    "psr-4": {
+      "FabianFroehlich\\Core\\Util\\": "src/"
+    },
+    "exclude-from-classmap": [
+      "/Tests/"
+    ]
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "FabianFroehlich\\Core\\Util\\Tests\\": "Tests/"
+    }
+  },
+  "scripts": {
+    "post-install-cmd": [
+      "@tld-generator"
+    ],
+    "post-update-cmd": [
+      "@tld-generator"
+    ],
+    "tld-generator": [
+      "sh scripts/tld-generator.sh"
+    ]
+  }
+}

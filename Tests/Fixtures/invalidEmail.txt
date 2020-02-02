@@ -1,0 +1,33 @@
+
+plainaddress
+#@%^%#$@#$@#.com
+@example.com
+Joe Smith <email@example.com>
+email.example.com
+email@example@example.com
+.email@example.com
+email.@example.com
+email..email@example.com
+あいうえお@example.com
+email@example.com (Joe Smith)
+email@example
+email@-example.com
+email@example..com
+Abc..123@example.com
+”(),:;<>[\]@example.com
+just”not”right@example.com
+this\ is"really"not\allowed@example.com
+foo
+foo.bar
+foo@bar
+foo@bar.
+@foo
+@foo.bar
+@
+foo.bar@batz-.bla.de
+Abc.example.com(no@character)
+A@b@c@example.com(onlyone@isallowedoutsidequotationmarks)
+a"b(c)de:f;g<h>i[j\k]l@example.com
+just"not"right@example.com
+thisis"not\allowed@example.com
+this\still\"not\\allowed@example.com
