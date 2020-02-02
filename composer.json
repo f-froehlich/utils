@@ -4,7 +4,7 @@
   "description": "Provides Utility Operation",
   "keywords": [],
   "homepage": "https://f-froehlich.de",
-  "license": "MIT",
+  "license": "AGPL-3.0-only",
   "authors": [
     {
       "name": "Fabian Fröhlich",
@@ -15,9 +15,6 @@
     {
       "type": "composer",
       "url": "https://nexus.f-froehlich.de/repository/composer/"
-    },
-    {
-      "packagist.org": false
     }
   ],
   "require": {
