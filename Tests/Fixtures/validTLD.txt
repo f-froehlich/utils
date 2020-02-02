@@ -1436,6 +1436,7 @@ xn--mgbbh1a
 xn--mgbbh1a71e
 xn--mgbc0a9azcg
 xn--mgbca7dzdo
+xn--mgbcpq6gpa1a
 xn--mgberp4a5d4ar
 xn--mgbgu82a
 xn--mgbi4ecexp
@@ -1461,6 +1462,7 @@ xn--p1ai
 xn--pbt977c
 xn--pgbs0dh
 xn--pssy2u
+xn--q7ce6a
 xn--q9jyb4c
 xn--qcka1pmc
 xn--qxa6a
