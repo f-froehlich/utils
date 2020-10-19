@@ -32,7 +32,6 @@ agakhan
 agency
 ai
 aig
-aigo
 airbus
 airforce
 airtel
@@ -47,6 +46,7 @@ ally
 alsace
 alstom
 am
+amazon
 americanexpress
 americanfamily
 amex
@@ -391,7 +391,6 @@ erni
 es
 esq
 estate
-esurance
 et
 etisalat
 eu
@@ -613,7 +612,6 @@ institute
 insurance
 insure
 int
-intel
 international
 intuit
 investments
@@ -785,7 +783,6 @@ memorial
 men
 menu
 merckmsd
-metlife
 mg
 mh
 miami
@@ -837,7 +834,6 @@ my
 mz
 na
 nab
-nadex
 nagoya
 name
 nationwide
@@ -1020,7 +1016,6 @@ rexroth
 rich
 richardli
 ricoh
-rightathome
 ril
 rio
 rip
@@ -1071,7 +1066,6 @@ schule
 schwarz
 science
 scjohnson
-scor
 scot
 sd
 se
@@ -1133,6 +1127,7 @@ solutions
 song
 sony
 soy
+spa
 space
 sport
 spot
@@ -1170,7 +1165,6 @@ swiss
 sx
 sy
 sydney
-symantec
 systems
 sz
 tab
@@ -1283,7 +1277,6 @@ vip
 virgin
 visa
 vision
-vistaprint
 viva
 vivo
 vlaanderen
@@ -1377,6 +1370,7 @@ xn--bck1b9a5dre4c
 xn--c1avg
 xn--c2br7g
 xn--cck2b3b
+xn--cckwcxetd
 xn--cg4bki
 xn--clchc0ea0b2g2a9gcd
 xn--czr694b
@@ -1387,7 +1381,6 @@ xn--d1alf
 xn--e1a4c
 xn--eckvdtc9d
 xn--efvy88h
-xn--estv75g
 xn--fct429k
 xn--fhbei
 xn--fiq228c5hs
@@ -1413,12 +1406,12 @@ xn--io0a7i
 xn--j1aef
 xn--j1amh
 xn--j6w193g
+xn--jlq480n2rg
 xn--jlq61u9w7b
 xn--jvr189m
 xn--kcrx77d1x4a
 xn--kprw13d
 xn--kpry57d
-xn--kpu716f
 xn--kput3i
 xn--l1acc
 xn--lgbbat1ad8j
@@ -1459,7 +1452,6 @@ xn--ogbpf8fl
 xn--otu796d
 xn--p1acf
 xn--p1ai
-xn--pbt977c
 xn--pgbs0dh
 xn--pssy2u
 xn--q7ce6a
